@@ -1,0 +1,7 @@
+title = "Jokes List";
+commonError = "Something went wrong. Please try again later.";
+emptyCacheError = "No any joke in local storage, try to find some Wi-Fi and try again.";
+likeButtonTitle = "Like";
+shareButtonTitle = "Share";
+errorAlertTitle = "Error";
+alertButtonTitle = "Okay";

@@ -1,0 +1,4 @@
+title = "New Joke";
+saveButtonTitle = "Save";
+cancelButtonTitle = "Cancel";
+symbolCounterFormatter = "%i / %i";

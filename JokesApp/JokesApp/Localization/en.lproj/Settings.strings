@@ -1,0 +1,6 @@
+title = "Settings";
+firstNameTitle = "First name:";
+lastNameTitle = "Last name:";
+offlineModeTitle = "Offline mode";
+firstNamePlaceholder = "Chuck";
+lastNamePlaceholder = "Norris";
